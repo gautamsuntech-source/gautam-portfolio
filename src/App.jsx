@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-      <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+    <>
+
+   <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
       <div class="container-fluid mx-3">
         <a class="navbar-brand" href="#">Gautam Arya</a>
         <button
@@ -40,6 +42,10 @@ const App = () => {
         </div>
       </div>
     </nav>
+
+
+    </>
+   
   )
 }
 
