@@ -4,7 +4,7 @@ import React from 'react'
 
 const Header = () => {
     return (
-        <>
+        <> 
             <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
                 <div class="container-fluid mx-3">
                     <a class="navbar-brand" href="#">Gautam Arya</a>
