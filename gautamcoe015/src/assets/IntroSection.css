@@ -72,7 +72,7 @@ input.form-control {
 }
 
 h2.mb-4 {
-  font-family: "Cormorant SC", serif;
-  font-size: 43px;
-  font-weight: 900;
+  font-family: "Cormorant SC", serif !important;
+  font-size: 46px !important;
+  font-weight: 900 !important;
 }
