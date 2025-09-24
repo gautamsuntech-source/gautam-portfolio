@@ -28,3 +28,12 @@
   li.nav-item :hover{
     color: #f4a825;
   }
+
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-white.shadow-sm {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    backdrop-filter: blur(30px);
+    background-color: hsla(0, 0%, 98%, .4) !important;';
+}
